@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+~$*
+
+# Sensitive — never commit these
+*.key
+*.pem
+secrets.txt
+credentials.json
