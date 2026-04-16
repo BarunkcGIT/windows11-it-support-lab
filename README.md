@@ -1,6 +1,6 @@
 # Windows 11 IT Support Lab
 
-🚧 **Work in progress** — a personal project I am building alongside my IT-tukihenkilö studies to practice real-world IT support skills.
+🚧 [Work in progress] — a personal project I am building alongside my IT-tukihenkilö studies to practice real-world IT support skills.
 
 ## Goal
 Simulate a full IT support workflow for a Windows 11 business device:
