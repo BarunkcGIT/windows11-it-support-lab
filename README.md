@@ -1,8 +1,9 @@
 # Windows 11 IT Support Lab
 
-🚧 [Work in progress] — a personal project I am building alongside my IT-tukihenkilö studies to practice real-world IT support skills.
+🚧 **Work in progress** — a personal project I am building alongside my IT-tukihenkilö studies to practice real-world IT support skills.
 
 ## Goal
+
 Simulate a full IT support workflow for a Windows 11 business device:
 hardware readiness, OS deployment, security baseline, application rollout,
 user management, troubleshooting, and PowerShell automation.
@@ -19,5 +20,7 @@ user management, troubleshooting, and PowerShell automation.
 - [ ] Phase 8: PowerShell automation
 
 ## About me
-Barun — IT-tukihenkilö student, Taitotalo, Helsinki
+
+IT-tukihenkilö student in Helsinki, building IT support skills through hands-on projects.
+
 LinkedIn: [linkedin.com/in/barunkc](https://linkedin.com/in/barunkc)
