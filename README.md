@@ -8,6 +8,7 @@ hardware readiness, OS deployment, security baseline, application rollout,
 user management, troubleshooting, and PowerShell automation.
 
 ## Status
+
 - [ ] Phase 1: Hardware readiness assessment
 - [ ] Phase 2: Windows 11 installation
 - [ ] Phase 3: Post-install configuration
