@@ -15,7 +15,7 @@ user management, troubleshooting, and PowerShell automation.
 - [x] Phase 3: Post-install configuration
 - [x] Phase 4: Security baseline
 - [x] Phase 5: Business app deployment
-- [ ] Phase 6: User and access management
+- [x] Phase 6: User and access management
 - [ ] Phase 7: Troubleshooting tickets (5 solved)
 - [ ] Phase 8: PowerShell automation
 
