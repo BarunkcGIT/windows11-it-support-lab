@@ -6,7 +6,7 @@
 
 Simulate a full IT support workflow for a Windows 11 business device:
 hardware readiness, OS deployment, security baseline, application rollout,
-user management, troubleshooting, and PowerShell automation.
+user management, and PowerShell automation.
 
 ## Status
 
@@ -16,8 +16,7 @@ user management, troubleshooting, and PowerShell automation.
 - [x] Phase 4: Security baseline
 - [x] Phase 5: Business app deployment
 - [x] Phase 6: User and access management
-- [ ] Phase 7: Troubleshooting tickets (5 solved)
-- [ ] Phase 8: PowerShell automation
+- [ ] Phase 7: PowerShell automation
 
 ## About me
 
