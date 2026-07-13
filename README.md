@@ -16,7 +16,7 @@ user management, and PowerShell automation.
 - [x] Phase 4: Security baseline
 - [x] Phase 5: Business app deployment
 - [x] Phase 6: User and access management
-- [ ] Phase 7: PowerShell automation
+- [x] Phase 7: PowerShell automation
 
 ## About me
 
