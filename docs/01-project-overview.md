@@ -8,7 +8,7 @@ and PowerShell automation.
 ## Why I built it
 To practice and demonstrate the core skills required for an IT helpdesk role:
 Windows deployment, endpoint security, user management, software deployment,
-structured troubleshooting, and technical documentation.
+and technical documentation.
 
 ## Phases
 1. **Hardware readiness assessment** — verify Windows 11 hardware requirements
@@ -17,8 +17,7 @@ structured troubleshooting, and technical documentation.
 4. **Security baseline** — Defender, Firewall, BitLocker, UAC
 5. **Business app deployment** — winget-based silent installation
 6. **User and access management** — standard users, least privilege
-7. **Troubleshooting tickets** — 5 real helpdesk scenarios solved
-8. **PowerShell automation** — scripts for readiness, user setup, app install
+7. **PowerShell automation** — scripts for readiness, user setup, app install
 
 ## Skills demonstrated
 - Windows 11 installation and configuration
@@ -27,8 +26,6 @@ structured troubleshooting, and technical documentation.
 - User and permission management with least privilege
 - Windows security configuration
 - Software deployment via winget
-- Structured troubleshooting methodology
-- Ticket-style technical documentation
 
 ## Tools used
 - VMware Workstation Pro 25H2
